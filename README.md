@@ -3,7 +3,7 @@
 <img align="right" alt="Logo" width="100px" src="./images/OwieczkaChod3.gif" />
 
 - I'm looking to collaborate with other developers
-- 2022 Goals: Share more of my work on Github
+- 2023 Goals: Develop a novel digital reading course for children
 
 ### Contact with me:
 
